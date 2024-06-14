@@ -3984,11 +3984,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Safe copy\\iot-api\\iot-api.csproj",
+      "projectUniqueName": "D:\\IOT Project\\IoT-api\\iot-api\\iot-api.csproj",
       "projectName": "iot-api",
-      "projectPath": "D:\\Safe copy\\iot-api\\iot-api.csproj",
+      "projectPath": "D:\\IOT Project\\IoT-api\\iot-api\\iot-api.csproj",
       "packagesPath": "C:\\Users\\RANA\\.nuget\\packages\\",
-      "outputPath": "D:\\Safe copy\\iot-api\\obj\\",
+      "outputPath": "D:\\IOT Project\\IoT-api\\iot-api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Visual Studio Data\\Shared components\\NuGetPackages"
@@ -4010,8 +4010,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "D:\\Safe copy\\iot.db\\iot.db.csproj": {
-              "projectPath": "D:\\Safe copy\\iot.db\\iot.db.csproj"
+            "D:\\IOT Project\\IoT-api\\iot.db\\iot.db.csproj": {
+              "projectPath": "D:\\IOT Project\\IoT-api\\iot.db\\iot.db.csproj"
             }
           }
         }

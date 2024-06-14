@@ -176,3 +176,4 @@ D:\Safe copy\iot-api\obj\Debug\net6.0\refint\iot-api.dll
 D:\Safe copy\iot-api\obj\Debug\net6.0\iot-api.pdb
 D:\Safe copy\iot-api\obj\Debug\net6.0\iot-api.genruntimeconfig.cache
 D:\Safe copy\iot-api\obj\Debug\net6.0\ref\iot-api.dll
+D:\IOT Project\IoT-api\iot-api\obj\Debug\net6.0\iot-api.sourcelink.json

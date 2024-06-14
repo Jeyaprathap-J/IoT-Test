@@ -1,20 +1,20 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Safe copy\\iot-api\\",
+  "WorkspaceRootPath": "D:\\IOT Project\\IoT-api\\iot-api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{BA65E3C8-8699-4181-AE71-86458148C3C9}|iot-api.csproj|d:\\safe copy\\iot-api\\controllers\\communicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{BA65E3C8-8699-4181-AE71-86458148C3C9}|iot-api.csproj|d:\\iot project\\iot-api\\iot-api\\controllers\\communicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{BA65E3C8-8699-4181-AE71-86458148C3C9}|iot-api.csproj|solutionrelative:controllers\\communicationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{BA65E3C8-8699-4181-AE71-86458148C3C9}|iot-api.csproj|d:\\safe copy\\iot-api\\iot-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{BA65E3C8-8699-4181-AE71-86458148C3C9}|iot-api.csproj|d:\\iot project\\iot-api\\iot-api\\iot-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{BA65E3C8-8699-4181-AE71-86458148C3C9}|iot-api.csproj|solutionrelative:iot-api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IOT Project\\IoT-api\\iot.db\\iotDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64CCF0EB-E24C-488D-826A-9C5C3A4561C8}|..\\iot.db\\iot.db.csproj|d:\\iot project\\iot-api\\iot.db\\iotdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IOT Project\\IoT-api\\iot.db\\CommunicationLog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{64CCF0EB-E24C-488D-826A-9C5C3A4561C8}|..\\iot.db\\iot.db.csproj|d:\\iot project\\iot-api\\iot.db\\communicationlog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -31,9 +31,9 @@
               "DocumentIndex": 2,
               "Title": "iotDbContext.cs",
               "DocumentMoniker": "D:\\IOT Project\\IoT-api\\iot.db\\iotDbContext.cs",
-              "RelativeDocumentMoniker": "..\\..\\IOT Project\\IoT-api\\iot.db\\iotDbContext.cs",
+              "RelativeDocumentMoniker": "..\\iot.db\\iotDbContext.cs",
               "ToolTip": "D:\\IOT Project\\IoT-api\\iot.db\\iotDbContext.cs",
-              "RelativeToolTip": "..\\..\\IOT Project\\IoT-api\\iot.db\\iotDbContext.cs",
+              "RelativeToolTip": "..\\iot.db\\iotDbContext.cs",
               "ViewState": "AQIAAA0AAAAAAAAAAAAgwBUAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T13:14:50.613Z"
@@ -43,9 +43,9 @@
               "DocumentIndex": 3,
               "Title": "CommunicationLog.cs",
               "DocumentMoniker": "D:\\IOT Project\\IoT-api\\iot.db\\CommunicationLog.cs",
-              "RelativeDocumentMoniker": "..\\..\\IOT Project\\IoT-api\\iot.db\\CommunicationLog.cs",
+              "RelativeDocumentMoniker": "..\\iot.db\\CommunicationLog.cs",
               "ToolTip": "D:\\IOT Project\\IoT-api\\iot.db\\CommunicationLog.cs",
-              "RelativeToolTip": "..\\..\\IOT Project\\IoT-api\\iot.db\\CommunicationLog.cs",
+              "RelativeToolTip": "..\\iot.db\\CommunicationLog.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-10T13:06:07.113Z"
@@ -54,9 +54,9 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "iot-api.csproj",
-              "DocumentMoniker": "D:\\Safe copy\\iot-api\\iot-api.csproj",
+              "DocumentMoniker": "D:\\IOT Project\\IoT-api\\iot-api\\iot-api.csproj",
               "RelativeDocumentMoniker": "iot-api.csproj",
-              "ToolTip": "D:\\Safe copy\\iot-api\\iot-api.csproj",
+              "ToolTip": "D:\\IOT Project\\IoT-api\\iot-api\\iot-api.csproj",
               "RelativeToolTip": "iot-api.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAA6AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -66,11 +66,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "CommunicationController.cs",
-              "DocumentMoniker": "D:\\Safe copy\\iot-api\\Controllers\\CommunicationController.cs",
+              "DocumentMoniker": "D:\\IOT Project\\IoT-api\\iot-api\\Controllers\\CommunicationController.cs",
               "RelativeDocumentMoniker": "Controllers\\CommunicationController.cs",
-              "ToolTip": "D:\\Safe copy\\iot-api\\Controllers\\CommunicationController.cs",
+              "ToolTip": "D:\\IOT Project\\IoT-api\\iot-api\\Controllers\\CommunicationController.cs",
               "RelativeToolTip": "Controllers\\CommunicationController.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAJAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAowBQAAABTAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-06-04T08:28:35.013Z",
               "EditorCaption": ""

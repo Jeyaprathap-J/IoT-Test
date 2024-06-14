@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "JKUjxc6zwr0=",
+  "dgSpecHash": "CEIeaiJAMt4=",
   "success": true,
-  "projectFilePath": "D:\\Safe copy\\iot.db\\iot.db.csproj",
+  "projectFilePath": "D:\\IOT Project\\IoT-api\\iot.db\\iot.db.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\RANA\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\RANA\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
