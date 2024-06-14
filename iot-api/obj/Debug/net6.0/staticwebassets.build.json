@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "zx/LJq2qa8H2e5Vf8c+jP5WdxfZhFR4rELUoGmSIbi0=",
+  "Source": "iot-api",
+  "BasePath": "_content/iot-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

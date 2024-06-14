@@ -1,0 +1,3 @@
+#localhost connection string
+
+dotnet ef dbcontext Scaffold "Data Source=(localdb)\IOTDataBase;Initial Catalog=iot.db;User Id=iot.user;Password=iot;Encrypt=False" Microsoft.EntityFrameworkCore.SqlServer --force --context iotDbContext
